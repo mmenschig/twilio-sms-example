@@ -44,7 +44,7 @@ Now we should be all set! To run both the frontend (client) and backend:
 npm start
 ```
 
-![app](https://github.com/mmenschig/twilios-smexample/blob/master/app.png?raw=true)
+![app](https://github.com/mmenschig/twilio-sms-example/blob/master/app.png?raw=true)
 
 Your application should now be running at [http://localhost:3000](http://localhost:3000). Internal API requests from the frontend will be proxied to the [Express Server](https://expressjs.com/)] running at [http://localhost:5000](http://localhost:5000).
 
