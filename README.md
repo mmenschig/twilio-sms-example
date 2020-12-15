@@ -46,4 +46,4 @@ npm start
 
 Your application should now be running at [http://localhost:3000](http://localhost:3000). Internal API requests from the frontend will be proxied to the [Express Server](https://expressjs.com/)] running at [http://localhost:5000](http://localhost:5000).
 
-Requests from the Express server will be proxied to http:,//api.twilio.com
+Requests from the Express server will be proxied to http://api.twilio.com
